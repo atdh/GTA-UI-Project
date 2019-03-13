@@ -1,0 +1,16 @@
+white walker, 1.00
+jimmy kimmel, 1000000.00
+john snow, 10.00
+targarian, 500.00
+numkins, 600.00
+joe, 750.00
+jack, 8000.00
+josh, 900000.00
+jose, 750000.00
+carlos, 220.00
+kim, 100.00
+chickalita, 5.000
+
+
+
+

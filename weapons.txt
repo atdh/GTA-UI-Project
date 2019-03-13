@@ -1,0 +1,8 @@
+fist, 0.05
+stick, 0.07
+bat, 0.1
+knife, 0.2
+glock 17, 0.5
+Benelli M4 shotgun, 0.8
+AK-47, 1
+AR-15, 1

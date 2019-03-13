@@ -1,0 +1,15 @@
+toyota rav4, 3000
+mitsubishi	mirage, 3000
+hyundai tucson, 2000
+audi a1, 4000
+ford Fiesta, 4000
+lincoln mkz, 4000
+lexus gx460, 4000
+fist, 0
+stick, 
+bat, 20
+knife, 200
+glock 17, 500
+Benelli M4 shotgun, 1000
+AK-47, 2000
+AR-15, 2000
